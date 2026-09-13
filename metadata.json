@@ -1,0 +1,6 @@
+{
+  "name": "WaterRec",
+  "description": "OBS Studio level screen recording application with a floating customizable bubble",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

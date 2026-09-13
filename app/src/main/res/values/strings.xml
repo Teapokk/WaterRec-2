@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WaterRec</string>
+    <string name="resolution">Resolution</string>
+    <string name="fps">FPS</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="record_internal_audio">Record Internal Audio</string>
+    <string name="record_microphone">Record Microphone</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="pause_recording">Pause Recording</string>
+    <string name="resume_recording">Resume Recording</string>
+    <string name="permission_required">Permissions are required for screen recording.</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="bubble_size">Bubble Size</string>
+    <string name="bubble_shape">Bubble Shape</string>
+    <string name="shape_circle">Circle</string>
+    <string name="shape_square">Square</string>
+    <string name="shape_triangle">Triangle</string>
+    <string name="notification_channel_name">Screen Recording Service</string>
+    <string name="notification_title">WaterRec</string>
+    <string name="notification_text">Recording in progress...</string>
+    <string name="recording_started">Recording Started</string>
+    <string name="recording_stopped">Recording Stopped</string>
+</resources>
